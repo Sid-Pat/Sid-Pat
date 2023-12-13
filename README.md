@@ -1,5 +1,5 @@
-Namastey all 🙏 and Welcome to my Github Profile 👋
-I'm Siddhant Patil , Competitive Programmer and Fullstack developer from India .
+Namastey all 🙏 and welcome to my Github Profile 👋
+I'm Siddhant Patil , Competitive Programmer and Fullstack developer from India.
 
 
 - 🔭 I’m currently working on building strong grip on Data Structures and Algorithms.
